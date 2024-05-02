@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16F1ECC2-AA9D-4883-9481-EE9551EBD932"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "8DAEC192-DBA8-4F3D-B51C-54CA44CD9EC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F78F3646-3371-4FC3-83DF-6E23B6E91222"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "read_online/Controllers/RegisterController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "didTapSignUpButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F78F3646-3371-4FC3-83DF-6E23B6E91222 - 4cc7c9b38f4c50b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.RegisterController.didTapSignUpButton() -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/Controllers/RegisterController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1448">
+               </Location>
+               <Location
+                  uuid = "F78F3646-3371-4FC3-83DF-6E23B6E91222 - 4cc7c9b38f4c509a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.RegisterController.didTapSignUpButton() -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/Controllers/RegisterController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D8EFA37-DC05-4F1E-B59C-867D837419FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "read_online/Controllers/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "read_online/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "signIn(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - 9420ac51aa24f372"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "42DDD873-83E8-4556-A5D2-35469A4630BA - b40941dfb359e61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "read_online.AuthService.signIn(with: read_online.LoginUserRequest, completionHandler: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "read_online"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marwa_awwad_mohamed_awwad/Desktop/swift%20UIkit/read_online/read_online/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
